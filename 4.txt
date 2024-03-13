@@ -1,0 +1,5 @@
+Primeiro, eu desligaria todos os interruptores. Depois, ligaria dois dos interruptores. Em seguida, usaria as minhas duas idas às salas para ir nas outras duas salas. Assim, poderei saber qual é o interruptor de cada lâmpada da seguinte forma:
+
+Caso 1: as duas salas que visitei estão com as luzes ligadas. Logo, os interruptores que liguei fazem referência a essas salas, e o interruptor desligado faz referência à sala inicial.
+
+Caso 2: uma das salas que visitei possui uma lâmpada apagada enquanto a outra está ligada. Logo, os interruptores ligados fazem referência à sala inicial e à outra sala que estava ligada, enquanto o interruptor desligado faz referência à outra sala que estava com lâmpada apagada.

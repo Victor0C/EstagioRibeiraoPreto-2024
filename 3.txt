@@ -1,0 +1,6 @@
+a) 9 => Aumenta de 2 em 2
+b) 128 => Dobra o valor anterior
+c) 49 => Segue a sequência do quadrado dos números naturais (0^2, 1^2, 2^2, 3^2...)
+d) 100 => Segue a sequência do quadrado dos números pares (2^2, 4^2, 6^2...)
+e) 13 => Sequência de Fibonacci
+f) 20 => Segue essa razão (8,2,4,1,1,1...) ex: 2, 10 = (8 + 2), 12 = (10 + 2), 16 = (12 + 4), 17 = (16 + 1), 18 = (17 + 1), 19 = (18 + 1), 20 (19 + 1)
